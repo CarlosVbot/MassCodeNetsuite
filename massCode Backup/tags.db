@@ -1,0 +1,21 @@
+{"name":"list","_id":"4Dx2J3DDCgmFRSOJ"}
+{"name":"var projectLook = search.lookupFields({                             type: search.Type.VENDOR_BILL,                             id: id,                             columns: ['amountpaid', 'amount']                         })","_id":"Air1FRu7Ym6NY574"}
+{"name":"JSON","_id":"B0EkCgXWg2fUeYak"}
+{"name":"#idinsertedrecord","_id":"BG7GRnXB1DiwP6Lq"}
+{"name":"jf","_id":"D1Mlf1vEdP5xGtcc"}
+{"name":"count","_id":"FCpNUcRMhQZhc1jB"}
+{"name":"#objeto #object","_id":"FPgZBu2RYeK2Vcvb"}
+{"name":"if","_id":"GrBIX0fZtcbJtXkX"}
+{"name":"#approvalstatus","_id":"GxYAKewI1oaL0pyO"}
+{"name":"#objeto","_id":"QPCdwyrhtVzj61GF"}
+{"name":"Freemarker","_id":"RLkML9BQ1MXkbFcD"}
+{"name":"MapReduce","_id":"TxhIPJDWYdpETpvf"}
+{"name":"lookupfields","_id":"btisKhJKU6KjMwK5"}
+{"name":"#void","_id":"dbJ6YzsuyotHf7jW"}
+{"name":"#creditmemo","_id":"gCfeApKiXN9Kn1bx"}
+{"name":"#date","_id":"hvWviMIORkUpT05W"}
+{"name":"#Freemarker #JSON","_id":"nq0t164tUhXc27c1"}
+{"name":"#JSON Array Sequence Freemarker","_id":"q5uZjgbiFWqaXmG5"}
+{"name":"#object","_id":"qxjfIhjQgxBDOa0o"}
+{"name":"SaveRecord","_id":"sm8n7zRNeK7fc49Q"}
+{"name":"#https #request","_id":"zi9vXFeTWz6XROWa"}
